@@ -1,0 +1,5 @@
+[separator=::]
+= _Erratica_
+:imagesdir: ./
+
+image::poetry.jpg[align=center,75%]

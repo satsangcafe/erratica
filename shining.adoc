@@ -1,0 +1,29 @@
+[separator=::]
+= _Shining here within_
+:author: Baba Dhillon
+:leveloffset:
+:sectnums:
+:sectlinks:
+:chapter-signifier:
+:toc: left
+:toclevels: 4
+:imagesdir: ./
+
+image::dhillon.jpg[align=center,75%]
+
+[.text-center]
+====
+How many times must a man seek in vain, +
+For joy, in a world full of pain ? +
+How many lies must he hear in his head, +
+Before the precious body falls dead ?
+
+How many births does it take for him to see, +
+That one is not the body nor the mind ? +
+When will he let go, and simply Be, +
+The Awareness, free of ego unkind ? +
+
+The answer, my Friend, +
+Is shining Here within, +
+The answer is shining Here within.
+====

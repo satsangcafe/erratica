@@ -1,0 +1,25 @@
+[separator=::]
+= _Carrot cake_
+:author: Wannabe Wabbit
+:leveloffset:
+:sectnums:
+:sectlinks:
+:chapter-signifier:
+:toc: left
+:toclevels: 4
+:imagesdir: ./
+
+image::cake.jpg[align=center,75%]
+
+[.text-center]
+====
+The kids don't seem to like it, +
+It's far too bland, you see ? +
+The elderly are toothless, +
+So they simply let it be... 
+
+The adults are a strange lot, +
+They say, "it ain't sugar-free". + 
+Alas, it's left for You and I, +
+To wash it down with tea !
+====
