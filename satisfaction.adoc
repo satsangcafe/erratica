@@ -1,0 +1,26 @@
+[separator=::]
+= _Satisfaction_
+:author: Asthipadam Iyer
+:leveloffset:
+:sectnums:
+:sectlinks:
+:chapter-signifier:
+:toc: left
+:toclevels: 4
+:imagesdir: ./
+
+[.text-center]
+[cols="1,1"]
+|===
+a|image::jagger.jpg[] 
+^.^|"_I can't get no satisfaction!_" +
+
+- Mick Jagger
+
+^.^|"_All pleasures of the senses or even of the mind are evanescent; but within ourselves is the one true unrelated pleasure, dependent upon nothing. + 
+It is perfectly free, it is bliss. The more our bliss is within, the more spiritual we are._" +
+
+- Swami Vivekananda
+a|image::vivekananda.jpg[] 
+
+|===
