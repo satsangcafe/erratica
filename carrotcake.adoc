@@ -14,12 +14,12 @@ image::cake.jpg[align=center,75%]
 [.text-center]
 ====
 The kids don't seem to like it, +
-It's far too bland, you see ? +
+It's far too bland, you see. +
 The elderly are toothless, +
-So they simply let it be... 
+So they just let it be. 
 
 The adults are a strange lot, +
-They say, "it ain't sugar-free". + 
-Alas, it's left for You and I, +
-To wash it down with tea !
+"It isn't sugar-free." + 
+Alas, it's left for you and me, +
+To wash it down with tea!
 ====
